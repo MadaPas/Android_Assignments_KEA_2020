@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Starbucks - Business Card (WEEK6) </string>
+
+    <string name="about_text">
+        We’re not just passionate purveyors of coffee, but everything else that goes with a full and rewarding coffeehouse experience. We also offer a selection of premium teas, fine pastries and other delectable treats to please the taste buds. And the music you hear in store is chosen for its artistry and appeal.
+        It’s not unusual to see people coming to Starbucks to chat, meet up or even work. We’re a neighborhood gathering place, a part of the daily routine – and we couldn’t be happier about it. Get to know us and you’ll see: we are so much more than what we brew.
+        We make sure everything we do is through the lens of humanity – from our commitment to the highest quality coffee in the world, to the way we engage with our customers and communities to do business responsibly.
+    </string>
+    <string name="home_text">
+        Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington, in 1971. As of early 2019, the company operates over 30,000 locations worldwide.
+    </string>
+
+    <string name="about_button">About</string>
+    <string name="contact_button">Contact</string>
+    <string name="home_button">Home</string>
+
+    <string name="image_1">Image 1</string>
+    <string name="image_2">Image 2</string>
+    <string name="image_3">Image 3</string>
+    <string name="image_4">Image 4</string>
+
+</resources>
