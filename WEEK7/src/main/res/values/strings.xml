@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_Week_7_Assignment</string>
+
+    <string name="text_view_1">Enter Text</string>
+    <string name="text_view_2">ViewText</string>
+
+    <string name="edit_text_1">Type here</string>
+
+    <string name="save_button">Save</string>
+    <string name="view_text_button">View the text</string>
+</resources>
