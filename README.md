@@ -50,3 +50,11 @@ Extra features:
 1) Save data in Firebase, so all the Pins will remain, even if the app is terminated. 
 Hint: Save primitive types, and recreate Pins at startup.
 2) Set mapregion dynamically, so the user's location is always in the center of the map view.
+
+```
+Week 12
+```
+Resize image. Figure out how to reduce the size of the image, that you get from the camera. 
+save the image from 1) to photo roll. (OK to use deprecated method, as of API 29)
+(this is supposed to be a short exercise, in lines of code at least).
+It IS ok, if you manage to save the photo to the device's local filesystem.
