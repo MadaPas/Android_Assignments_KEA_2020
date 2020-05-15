@@ -58,3 +58,13 @@ Resize image. Figure out how to reduce the size of the image, that you get from 
 save the image from 1) to photo roll. (OK to use deprecated method, as of API 29)
 (this is supposed to be a short exercise, in lines of code at least).
 It IS ok, if you manage to save the photo to the device's local filesystem.
+
+```
+Week 13
+```
+Create a ListView (or RecyclerView) Controller with a custom Layout. You should as minimum have a Label and an ImageView. As always, be prepared to explain your code.
+
+```
+Week 14
+```
+ Implement a Firebase(email/password) login for one of your previous apps. After a successful login, the app should display something which otherwise is hidden.
