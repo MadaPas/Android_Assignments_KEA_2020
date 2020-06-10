@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclerView-custom-layout</string>
+
+    <string-array name="names">
+        <item>Tiger</item>
+        <item>Max</item>
+        <item>Sam</item>
+        <item>Smokey</item>
+        <item>Lucky</item>
+        <item>Misty</item>
+        <item>Oreo</item>
+        <item>Princess</item>
+        <item>Sammy</item>
+        <item>Leon</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+        <item>Extremely lovely kitten</item>
+    </string-array>
+
+
+</resources>
